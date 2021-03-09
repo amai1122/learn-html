@@ -1,4 +1,15 @@
 body{
     color:#333;
     font-family: verdana,sans-serif;
+    /* margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin: 0px; */
+    margin: 0;
+
+}
+
+header{
+    background-color: #efefef;
 }
